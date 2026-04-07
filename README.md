@@ -7,5 +7,7 @@
 - Languages: Python, C
 - Currently Learning: C++
 
+🐱 I love cats
+
 🚀 Goal:
 To become a developer who builds efficient and reliable systems
